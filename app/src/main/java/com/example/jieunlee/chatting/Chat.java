@@ -3,10 +3,10 @@ package com.example.jieunlee.chatting;
 /**
  * Created by jieunlee on 2018-05-04.
  */
-//제발되라
 
 public class Chat {
 
+    //파일을 수정합니다.
     public String email;
     public String text;
 
