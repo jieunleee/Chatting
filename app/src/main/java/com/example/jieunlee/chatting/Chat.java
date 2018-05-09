@@ -3,6 +3,7 @@ package com.example.jieunlee.chatting;
 /**
  * Created by jieunlee on 2018-05-04.
  */
+//제발되라
 
 public class Chat {
 
