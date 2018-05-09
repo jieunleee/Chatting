@@ -12,6 +12,7 @@ import java.util.List;
 /**
  * Created by jieunlee on 2018-05-03.
  */
+//android
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     private List<Chat> mChat;
